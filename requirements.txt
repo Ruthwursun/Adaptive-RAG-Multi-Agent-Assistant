@@ -1,0 +1,13 @@
+gradio
+crewai
+crewai-tools
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langchain-groq
+chromadb
+pypdf
+requests
+sentence-transformers
+litellm
